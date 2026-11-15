@@ -1,3 +1,29 @@
+# symphony
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把项目工作拆成隔离的自主实现运行，让团队管理工作而非监督编码 Agent。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Symphony
 
 Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage
